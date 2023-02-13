@@ -28,6 +28,15 @@ https://mp.weixin.qq.com/s/eWq_qVNHohefLpMl5eRyBg
 [【Day1 - 66. 加一】](https://leetcode.cn/problems/plus-one/)  
 [【Day1 - 989. 数组形式的整数加法】](https://leetcode.cn/problems/add-to-array-form-of-integer/)
 
+[【Day2 - 821. 字符的最短距离】](https://leetcode.cn/problems/shortest-distance-to-a-character/)
+
+[【Day3 - 1381. 设计一个支持增量操作的栈】](https://leetcode.cn/problems/design-a-stack-with-increment-operation/)
+
+[【Day4 - 394. 字符串解码】](https://leetcode.cn/problems/decode-string/)
+
+[【Day5 - 232. 用栈实现队列】](https://leetcode.cn/problems/implement-queue-using-stacks/)
+
+[【Day6 - 768. 最多能完成排序的块 II】](https://leetcode.cn/problems/max-chunks-to-make-sorted-ii/)
 
 ### 【基础篇】02.链表  
 
