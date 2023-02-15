@@ -39,6 +39,19 @@ https://mp.weixin.qq.com/s/eWq_qVNHohefLpMl5eRyBg
 [【Day6 - 768. 最多能完成排序的块 II】](https://leetcode.cn/problems/max-chunks-to-make-sorted-ii/)
 
 ### 【基础篇】02.链表  
+### 基础篇 - 02.链表
+
+[【Day7 - 61. 旋转链表】](https://leetcode.cn/problems/rotate-list/)
+
+[【Day8 - 24. 两两交换链表中的节点】](https://leetcode.cn/problems/swap-nodes-in-pairs/)
+
+[【Day9 - 109. 有序链表转换二叉搜索树】](https://leetcode.cn/problems/convert-sorted-list-to-binary-search-tree/)
+
+[【Day10 - 160. 相交链表】](https://leetcode.cn/problems/intersection-of-two-linked-lists/)
+
+[【Day11 - 142. 环形链表 II】](https://leetcode.cn/problems/linked-list-cycle-ii/)
+
+[【Day12 - 146. LRU 缓存机制】](https://leetcode.cn/problems/lru-cache/)
 
 ### 【基础篇】03.树  
 
