@@ -67,9 +67,44 @@ https://mp.weixin.qq.com/s/eWq_qVNHohefLpMl5eRyBg
 
 [【Day18 - 987. 二叉树的垂序遍历】](https://leetcode.cn/problems/vertical-order-traversal-of-a-binary-tree/)  
 
-### 【基础篇】04.哈希表  
+### 【基础篇】04.哈希表
 
-### 【基础篇】05.双指针  
+[【Day13 - 1. 两数之和】](https://leetcode.cn/problems/two-sum/)  
+
+[【Day13 - 347. 前 K 个高频元素】](https://leetcode.cn/problems/top-k-frequent-elements/)  
+
+[【Day13 - 447. 回旋镖的数量】](https://leetcode.cn/problems/number-of-boomerangs/)  
+
+[【Day13 - 3.无重复字符的最长子串】](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)  
+
+[【Day13 - 30. 串联所有单词的子串】](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/)  
+
+[【Day13 - 974. 和可被 K 整除的子数组】](https://leetcode.cn/problems/subarray-sums-divisible-by-k/)  
+
+### 【基础篇】05.双指针
+
+[【Day13 - 876. 链表的中间结点】](https://leetcode.cn/problems/middle-of-the-linked-list/)  
+
+[【Day13 - 26.删除排序数组中的重复项】](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)  
+
+[【Day13 - 35. 搜索插入位置】](https://leetcode.cn/problems/search-insert-position/)  
+
+[【Day13 - 239. 滑动窗口最大值】](https://leetcode.cn/problems/sliding-window-maximum/)  
+
+## 专题篇
+### 【专题篇】01.二分法  
+
+### 【专题篇】02.滑动窗⼝  
+
+### 【专题篇】03.位运算  
+
+### 【专题篇】04.搜索  
+
+### 【专题篇】05.背包问题  
+
+### 【专题篇】06.动态规划  
+
+### 【专题篇】07.分治  
 
 
 ## 进阶篇
@@ -86,19 +121,3 @@ https://mp.weixin.qq.com/s/eWq_qVNHohefLpMl5eRyBg
 ### 【进阶篇】07.高频试题  
 
 ### 【进阶篇】08.堆  
-
-
-## 专题篇
-### 【专题篇】01.二分法  
-
-### 【专题篇】02.滑动窗⼝  
-
-### 【专题篇】03.位运算  
-
-### 【专题篇】04.搜索  
-
-### 【专题篇】05.背包问题  
-
-### 【专题篇】06.动态规划  
-
-### 【专题篇】07.分治  
