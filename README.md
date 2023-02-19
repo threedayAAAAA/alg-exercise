@@ -55,6 +55,18 @@ https://mp.weixin.qq.com/s/eWq_qVNHohefLpMl5eRyBg
 
 ### 【基础篇】03.树  
 
+[【Day13 - 104. 二叉树的最大深度】](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)  
+
+[【Day14 - 100.相同的树】](https://leetcode.cn/problems/same-tree/)  
+
+[【Day15 - 129. 求根到叶子节点数字之和】](https://leetcode.cn/problems/sum-root-to-leaf-numbers/)  
+
+[【Day16 - 513. 找树左下角的值】](https://leetcode.cn/problems/find-bottom-left-tree-value/)  
+
+[【Day17 - 297. 二叉树的序列化与反序列化】](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/)  
+
+[【Day18 - 987. 二叉树的垂序遍历】](https://leetcode.cn/problems/vertical-order-traversal-of-a-binary-tree/)  
+
 ### 【基础篇】04.哈希表  
 
 ### 【基础篇】05.双指针  
