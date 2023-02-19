@@ -38,7 +38,6 @@ https://mp.weixin.qq.com/s/eWq_qVNHohefLpMl5eRyBg
 
 [【Day6 - 768. 最多能完成排序的块 II】](https://leetcode.cn/problems/max-chunks-to-make-sorted-ii/)
 
-### 【基础篇】02.链表  
 ### 基础篇 - 02.链表
 
 [【Day7 - 61. 旋转链表】](https://leetcode.cn/problems/rotate-list/)
